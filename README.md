@@ -4,5 +4,4 @@ Makes your Flask apps running on localhost available over the internet via the e
 # Installation
 pip install flask-ngrok
 
-
-# This is a development server. Do not use it in a production deployment.
+This is a development server. Do not use it in a production deployment.
